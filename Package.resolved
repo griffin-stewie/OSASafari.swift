@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "osascript.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/griffin-stewie/OSAScript.swift",
+      "state" : {
+        "branch" : "main",
+        "revision" : "8e29a462e4afbd071e3f657e35a6d816a85fc9d7"
+      }
+    }
+  ],
+  "version" : 2
+}
